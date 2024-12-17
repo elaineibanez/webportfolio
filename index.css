@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.roboto-regular {
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar-nav{
+	text-align: center;
+}
+
+.rounded-circle {
+	height: 85%;
+	width: 40%;
+	margin-left: 30%;
+	margin-top: 50px;
+	margin-left: 50%;
+}
+
+#backgroundimg {
+	background-color: pink;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 80vh;
+}
+
+#toolscontainer {
+	background-color: gray;
+	height: 80vh;
+	color: black;
+}
+
+
+.pt-5 {
+    padding-top: 9rem !important;
+}
+
+#tools {
+	background-color: gray;
+	max-width: 100%
+}
