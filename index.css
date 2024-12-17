@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+iframe {
+	border:0;"
+}
+
 .roboto-regular {
   font-family: "Roboto", serif;
   font-weight: 400;
